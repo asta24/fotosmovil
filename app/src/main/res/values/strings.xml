@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fotosmovil</string>
+    <string name="iv_fotos">Captura de imagen</string>
+        <string name="btn_captura">Capturar imagen</string>
+</resources>
